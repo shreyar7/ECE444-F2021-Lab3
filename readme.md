@@ -55,6 +55,19 @@ Lab 3 Activity 4: Run docker image on localhost
 
 
 
+Lab 3 Activity 5: Feedback on Education Pathways application
+
+
+Functional Requirement - Course Search
+The web application shall allow the search of courses using keywords in the course description as well as the Course Title and Course Code. Then, multiple dropdown filters will be used to narrow the search.
+Ex: The search term ECE444 should be accepted to provide direct matches or related matches based on related course topics, pre requisite courses, department or offering faculty, etc. Currently, the webpage only allows the narrowing of the search by one of Division or Department or Campus but it would be better to allow the user to narrow down the search results using a combination of multiple filters.
+
+Non-functional Requirement - Usability
+The web application shall provide responsive messages to prompt the users for further or modified inputs based on their selections.
+Ex: If no courses were found matching the criteria selected by the user, an error message should be displayed saying "No courses were found matching the selected criteria." This will prompt the user to intuitively change the selected filters.
+
+
+
 
 # CARTE Education Pathways
 
