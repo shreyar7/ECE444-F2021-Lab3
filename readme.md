@@ -1,5 +1,19 @@
 Name: Shreya Rajendran
+
 This repo is a clone of https://github.com/nelaturuk/education_pathways.
+
+Lab 3 Activity 1: Docker Installation
+
+![Activity1](https://user-images.githubusercontent.com/90438521/135700019-6cc08d1a-1afc-4ef3-aade-599081b1b59d.PNG)
+
+
+Lab 3 Activity 2: Cloning Education Pathways repo
+
+![Activity2](https://user-images.githubusercontent.com/90438521/135700043-ccaf427a-ee51-47bb-92a9-93994533aede.PNG)
+
+
+
+
 
 # CARTE Education Pathways
 
